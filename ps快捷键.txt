@@ -13,6 +13,9 @@ PHOTOSHOP常用快捷键大全
 打印 CTRL+P
 退出 CTRL+Q
 
+
+
+ctrl +j  ctrl+T
 二、编辑
 撤消 CTRL+Z
 向前一步 CTRL+SHIFT+Z
