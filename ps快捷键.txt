@@ -14,8 +14,9 @@ PHOTOSHOP常用快捷键大全
 退出 CTRL+Q
 
 
+ctrl +j  ctrl+T  组合抹图
 
-ctrl +j  ctrl+T
+
 二、编辑
 撤消 CTRL+Z
 向前一步 CTRL+SHIFT+Z
